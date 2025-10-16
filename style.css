@@ -1,0 +1,15 @@
+div {
+    background-color: #a5f4c8;
+    width: 600px;
+    align-self: center;
+    allign-items: center;
+}
+h1 {
+    color: #0645b3;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img {
+    border-radius: 10%;
+    align-self: center;
+    allign-items: center;
+}
